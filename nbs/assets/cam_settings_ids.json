@@ -1,0 +1,34 @@
+{
+    "camera_id": 0,
+    "row_slice": [
+        0,
+        1216
+    ],
+    "resolution": [
+        1216,
+        1936
+    ],
+    "pixel_format": "Mono12",
+    "fwhm_nm": 4,
+    "exposure_ms": 100,
+    "binxy": [
+        1,
+        1
+    ],
+    "luminance": 10000,
+    "longitude": -17.7,
+    "latitude": 146.1,
+    "datetime_str": "2021-05-26 03:26",
+    "altitude": 0.12,
+    "radiosonde_station_num": 94299,
+    "radiosonde_region": "pac",
+    "sixs_path": "",
+    "win_offset": [
+        0,
+        0
+    ],
+    "win_resolution": [
+        0,
+        0
+    ]
+}
