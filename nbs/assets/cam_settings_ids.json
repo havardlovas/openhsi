@@ -5,12 +5,12 @@
         1216
     ],
     "resolution": [
-        1216,
-        1936
+        1936,
+        1216
     ],
     "pixel_format": "Mono12",
     "fwhm_nm": 4,
-    "exposure_ms": 100,
+    "exposure_ms": 20,
     "binxy": [
         1,
         1
